@@ -1,0 +1,32 @@
+/CHAPTER 4: "ASK-KEY"
+/Nuno: Narito na tayo sa Einstein Building! Kaspian, enge... choc-nut... mwehe. 
+/Kaspian: Osya salamat, Nuno. *binigyan si Nuno ng choc-nut*
+/Nuno: Si Nuno ay sinisipag na ulit! Nasaan kaya yung locker na ‘yun?
+/Kaspian: Takot ang mga engkanto at aswang sa sandata, panigurado ay nakatago ito ng mabuti. Hindi natin yun masisipat nang madalian lamang.
+/Nuno: Sabagay, si Kaspian ay may punto. Tingnan natin nang maigi at baka may masipat na kakaiba. 
+/Ilang oras nakalipas...
+/Nuno: Kaspian! Kaspian! Tingnan mo ‘to! Ako lang ba o kumikislap nang onti ang locker na ‘to?
+/Kaspian: !!! Mukhang ito nga yun! Ang kaniyang kandado ay naiiba rin sa ating mga nakikita kanina. Tara at buksan na natin ‘to! 
+/Diwa: Sandali! Ito ang paraan para makuha natin ang kakaibang sandata upang mas lumakas ka, Kaspian. 
+/MINIGAME 2 GAME: To get the weapon inside the locker, Kaspian must guess the locker's six-digit code combination. The combination will change after 3 wrong attempts, and there will be a hint provided for Kaspian.   
+/MINIGAME 2 GAME: The minigame will not stop until you guess the correct digits, so it is a test of wit and persistence to unveil the secret weapon hidden behind the intricate code.
+/CHAPTER 4 MINIGAME: GUESS THE LOCKER CODE
+/GET READY!
+;Nang mabuksan ni Kaspian ang locker room ay bumungad ang...
+;Kaspian: T-SQUARE?! Mukha bang makakapaslang ng mga aswang at engkanto 'to? Hmm...
+;Hinagis ni Kaspian ang T-Square sa hallway, ngunit bago ito makalapag sa sahig ay bigla itong umilaw ng napaka liwanag at nagbago ang anyo, lumipad ito pabalik sa direksyon kung nasaan sila Kaspian at Nuno.
+;Nuno: AAAAAA tatama sa atin! Nuno ayaw na sa bukol!
+;Nasambot ito ni Kaspian at...
+;Kaspian: ...Naging ispada, nakakamangha.
+;Nuno: ANG BANGIIIIIIS! At dahil dyan, bigyan mo ko ng choc-nut mwehe >:D 
+;Kaspian: ‘Wag mo abusuhin ang kapangyarihan ng choc-nut, Nuno. Isa-isa lang dapat (baka maubos agad...) 
+;Kaspian: Kakaiba ang pakiramdam ko sa ispada na to, nakakalakas ng loob.
+; +15 ATTACK DAMAGE TO ALL ATTACK MOVES (Tomás Mapúa's Sword)
+;Nuno: Si Nuno ay nagagalak! Ituloy na natin ang paglakbay, onti nalang at magwawagi na tayo! 
+;Diwa: Magaling, Kaspian. Kayang-kaya mo na kalabanin si bungisngis. 
+;Nuno: Narinig namin ni Kaspian ‘yang bungisngis nung tinatakot ka nung tik-tik! 
+;Diwa: Oo, siya ang kanang kamay ng mangkukulam. Kapag natalo si Bungisngis, kailangan kuhanin ang kanyang mata dahil mayroon itong kakaibang itim na mahika na nagbibigay lakas sa nagtatamasa.
+;Kaspian: Saan natin siya mahahanap? 
+;Diwa: ...ito ang problema. Siya ay lumalakbay kung saan-saan. 
+;END OF CHAPTER 4. 
+

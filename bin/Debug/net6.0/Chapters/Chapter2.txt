@@ -1,0 +1,30 @@
+/CHAPTER 2: "NO ID? NO ENTRY!"
+/Nang marating nila Nuno at Kaspian ang labas ng ETYCB gate, sinubukan nila itong pasukin. Ngunit natatabunan ng bundok - bundok na upuan ang mga pinto, tinignan nila lahat ng posibleng daanan papasok ngunit lahat ay sarado.
+/Sinubukan ni Kaspian na umakyat sa bundok ng mga upuan ngunit siya ay nabigo at nahulog dahil sa mabagal niyang pag-akyat.
+/Nuno: Naku! kailangan ni Kaspian na maging maliksi para maakyat ng kabundok ng mga upuan. 
+/Mukhang mahirap gawin, pero sinubukan muli ni Kaspian akyatin ang mga upuan. Sa kasamaang palad, siya ay nabigo pa rin nang biglang may tumawag sa kanya.
+/???: Kaspian? 
+/Kaspian: Professor Bert? Bakit ka nandito? 
+/Nakita ni Kaspian si Professor Bert, ang may alam sa mga sikreto ng institusyon. Siya ay nanghihina, kaya pinuntahan ni Kaspian para tulungan. 
+/Professor Bert: Mabuti at nakita kita, ikaw lang ang pag-asa ng sangkatauhan!
+/Kaspian: Paano mo po yan nalaman? Pakisabi sa akin at naguguluhan ako! 
+/Professor Bert: Pasensya at ngayon ko lang nasabi, kinalaban ko si Luntianara, ang mangkukulam na nagsimula nitong lahat. Ngayon...nanghihina ako dahil sa kulam niya, siya ang rason kung bakit nagsimula lahat ng ito!  
+/Professor Bert: Hanapin mo… si Manong Guard at sabihin…. sakanya ang salitang....”kalesa”.
+/Pagkatapos dalhin nila Kaspian at Nuno si Professor Bert sa isang ligtas na lugar, si Manong Guard, ang tikbalang na nag aanyong tao na nagbabantay sa Airwell entrance, ay pinuntahan ang gulo sa ETYCB gate .
+/Manong Guard: Anong kaguluhan ito?
+/Kaspian: Kalesa! Tulungan mo kami!
+/Manong Guard: Ano ang ginagawa niyo sa labas? May mga aswang at engkanto ang nag gagala.
+/Kaspian: Ako si Kaspian at kailangan ko po ang tulong niyo. Ayon kay Sir Bert ay kayo ang makakatulong sa akin. Kailangan ko po maging matulin upang makalampas sa bundok na upuan ng ETYCB gate. 
+/Manong Guard: Hmm, dahil ikaw ay pinagkakatiwalaan ni Professor Bert, maari kitang bigyan ng inumin upang magkaroon ng temporaryang tulin. Ngunit makikipag laro ka muna sa akin ng patintero, Kaspian, upang malaman ko na karapat-dapat ka. 
+/Kaspian: Handa po ako. 
+/MINIGAME INSTRUCTIONS: In this minigame, every move requires Kaspian to answer questions asked by Manong Guard successfully in order to surpass him. If the answer is correct, Kaspian can move upward (W), to the left (A), to the right (D), or even go back downward (S).
+/MINIGAME INSTRUCTIONS: However, if the provided answer is incorrect, Kaspian won't have a chance to move past the guard. If Kaspian is caught, the game will restart. Otherwise, Kaspian will be the winner!
+/MINIGAME INSTRUCTIONS: Manong Guard's questions will test Kaspian's general knowledge, challenging his understanding in various fields. Answer wisely!
+/Manong Guard: Handa ka na ba?
+/Kaspian: Para sa ikabubuti ng mundo, oo!
+/CHAPTER 2 MINIGAME: PATINTERO
+/GET READY!
+;Manong Guard: Magaling ka Kaspian! Karapat-dapat mong makuha ang taglay ng kakaibang tulin. Paniniwalaan kong mabuti kang tao, Kaspian. 
+;Kaspian: Maraming salamat po Manong Guard! 
+;Ininom ni Kaspian ang binigay na inumin na temporaryong magpapatulin sa kanya, dahil sa epekto ng inumin ay nakaraos siya sa ETYCB gate, kasama si Nuno.
+;END OF CHAPTER 2.

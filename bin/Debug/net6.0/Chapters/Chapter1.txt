@@ -1,0 +1,31 @@
+/CHAPTER 1: "CHOC - NUT"
+/Babaylan: Itakas mo ang batang iyan, bago siya mapaslang ng mga engkanto!
+/Teresa: Hindi ko kayang mawalay sa anak ko!
+/Babaylan: Siya ang tatapos sa kadiliman ng mundong ito. Wala na akong magagawa, ipadala natin siya sa mundo ng mga tao...
+/Teresa: Paalam anak ko Kaspian, mahal na mahal kita.
+/Makalipas ang mahigit dalawang dekada...
+/Habang nasa kwarto niya, si Kaspian ay may hawak na turumpo na bigay ng kanyang lolo Romar.
+/Kaspian: Ano kaya ang meron dito sa turumpong ito? May kakaiba sa kanya...
+/Nagmumuni-muni si Kaspian hanggang sa may biglang nang hagis ng lata na tumama sa kanyang ulo.
+/Kaspian: Argh! aray ko! Sino yun?
+/Nuno: Mweheh >:D
+/CHAPTER 1 BATTLE: KASPIAN VS NUNO!
+/Kaspian!!! Bago ka makipagdigmaan gamit ang iyong turumpo, kailangan mo muna alamin kung paano makipaglaban. 
+/BATTLE INSTRUCTIONS: In each battle, Kaspian and the enemy each possess four unique combat moves: Light Attack, Normal Attack, Medium Attack, and Ultimate Attack. Once Kaspian uses a particular attack, it cannot be used again until all combat moves have been used; this rule applies to the enemy as well. 
+/BATTLE INSTRUCTIONS: Kaspian also has three chances to rewrite his destiny, providing an opportunity to change the enemy's combat move. However, this action comes with risks, as it may result in Kaspian receiving either lower or higher damage. Therefore, timing is crucial. 
+/Beware. As the story progresses, the enemies will be stronger. I wish you the best results. 
+;Nuno: Argh! ayaw na ni Nuno! suko na si Nuno! 
+;Kaspian: Ano ka at bakit ka andito?!
+;Nuno: Nuno kailangan choc-nut… Nuno limot ano gagawin…
+;Tinali muna ni Kaspian si Nuno bago niya bigyan ng choc-nut na galing sa tindahan ni Aling Aurelia.
+;Nuno: Kaspian bigay Nuno choc-nut, Nuno kaibigan Kaspian! 
+;Kaspian: Sagutin mo ang aking mga tanong! 
+;Nuno: Nalimutan ni Nuno sino si Nuno... maliban sa tutulungan ka ni Nuno upang mapuksa ang pwersa ng kadiliman, ang mangkukulam! Siya ang rason kung bakit masisira ang mundo mwehe! 
+;Nagtataka si Kaspian hanggang sa naalala niya ang sinabi ng kanyang lolo tungkol sa kanya na siya ang nakatakda sa propesiya na magligtas sa mundo ng mga tao.
+;Kaspian: Akala ko dati kwentong barbero lang ni lolo yun...Pst! boy choc - nut, may kilala ka ba na Romar?
+;Nuno: Si Romar...kilala siya ni Nuno, ngunit hindi na maalala anuman ang higit pa roon!!! Bakit ganon? Pero anuman, kailangan na natin pumunta sa Em-Em-Si-El upang mapuntahan ang mangkukulam! 
+;Nagulat si Kaspian na ang lokasyon ay ang kolehiyo niya. Maliban dito, nakakaramdam ng kakaibang enerhiya si Kaspian kay Nuno, parang hindi niya dapat tanggihan si Nuno.
+;Kaspian: Sige. Ako ay sasama sa’yo papuntang MMCL, pero nakatali ka habang naglalakbay! 
+;END OF CHAPTER 1. 
+|Kaspian|100|Saltik De Tali|Paltok De Turumpo!|Watt-a-Top|Ultra-Magnetic Top|2|4|7|10
+|Nuno|45|Manghagis|Mang - Kagat|Choc-Nut Slash Attack|Sumpa De Punso|4|8|10|15

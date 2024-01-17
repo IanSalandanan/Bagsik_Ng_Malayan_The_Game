@@ -1,0 +1,22 @@
+/CHAPTER 5: "Kisap-Mata"
+/Habang naglalakbay si Kaspian, Diwa, at Nuno sa Oval, may naalalang impormasyon si Diwa.
+/Diwa: Kaspian, naalala ko na! Mahahanap- 
+/Naputol ang sinasabi ni Diwa noong naramdaman nila ang pag alog ng lupa na lumalakas nang lumalakas.
+/Isaogmata: GRAAAAAHHHH!!!!! Sino ang may hawak ng sandata ni Tomás Mapúa?! Ginagalit niyo si Isaogmata!! 
+/Diwa: Kaspian, nahanap tayo ng bungisngis dahil sa enerhiya ng sandata! Ito ang hindi ko naalalang impormasyon!
+/Kaspian: Salamat, Diwata. Bungisngis! Ako si Kaspian, ang hinahanap mo, at kakalabanin mo!
+/Isaogmata: Humanda ka, Kaspian. Hindi ka pwede tumuloy hangga’t ‘di mo pa ko hinaharap!
+/CHAPTER 5 BATTLE: KASPIAN VS ISAOGMATA!
+;Bungisngis: Hindi maari...pagagalitan ako ni Luntianara... 
+;Pagkatapos ng marahas na digmaan nila Kaspian at ang bungisngis, kinuha ni Kaspian ang kaiisang mata ng bungisngis. 
+;Nuno: Kaspian!! Ikaw ba ay ayos lang? Kamusta yung choc-nuts ko? Phew, nandyan pa rin sa’yo...
+;Kaspian: ‘Wag kang magalala, Nuno. Ayos lang ako at yung choc-nuts mo. Diwa, ano ang gagawin natin sa mata? 
+;Gamit ang kapangyarihan ni Diwa, pinagtaglayan niya ang mata ng bungisngis at ang sandata. Ang sandata ay naglabas ng maitim na mahika, at dito ay nakaramdam ng kakaibang lakas si Kaspian. 
+;Ang mata ang naging sanhi upang lumabas ang dugong engkanto, tunay na kalakasan ni Kaspian.
+; +25 ATTACK DAMAGE TO ALL ATTACK MOVES (Tomás Mapúa's Sword + Isaogmata's Eye)
+; +80 HEALTH POINTS TO KASPIAN (Isaogmata's Eye)
+;Diwa: Ito, Kaspian. And sandata mo ay maaari nang magbigay ng pinsalang maitim na mahika na kailangan upang matalo ang mangkukulam. 
+;Nuno: Narinig ni Nuno na nasa auditorium si Luntianara, ang mangkukulam! Tara na Kaspian at Diwa! 
+;END OF CHAPTER 5.
+|Kaspian|100|Corte Espectral|Tajo Danzante|Hinagpit ng Tres - Marias|Marka De Cinco|2|4|7|10
+|Isaogmata|115|Takip - Silip|Sunga y Araro|Multi - Tusk|Cyclopian Cyclone|16|18|21|26

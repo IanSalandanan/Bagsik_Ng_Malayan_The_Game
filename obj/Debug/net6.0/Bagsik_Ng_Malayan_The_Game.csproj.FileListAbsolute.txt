@@ -1,0 +1,14 @@
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\bin\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.exe
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\bin\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.deps.json
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\bin\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.runtimeconfig.json
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\bin\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.dll
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\bin\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.pdb
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\obj\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\obj\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.AssemblyInfoInputs.cache
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\obj\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.AssemblyInfo.cs
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\obj\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.csproj.CoreCompileInputs.cache
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\obj\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.dll
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\obj\Debug\net6.0\refint\Bagsik_Ng_Malayan_The_Game.dll
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\obj\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.pdb
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\obj\Debug\net6.0\Bagsik_Ng_Malayan_The_Game.genruntimeconfig.cache
+C:\Users\Christian Kerby\source\repos\Bagsik_Ng_Malayan_The_Game\obj\Debug\net6.0\ref\Bagsik_Ng_Malayan_The_Game.dll

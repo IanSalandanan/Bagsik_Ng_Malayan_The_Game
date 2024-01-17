@@ -1,0 +1,25 @@
+/CHAPTER 3: "Matalim na Dila"
+/Pag ka pasok ni Kaspian sa ETYCB ay agad siyang nakakita ng liwanag sa loob ng Cafeteria.
+/Kaspian: Bakit may liwanag sa loob ng Caf?...
+/Kaspian: Huh? Diwata ba ung nakikita ko? Hala, nakikipaglaban siya sa isang tik-tik!
+/Diwata: Huwag mo akong saktan! Wala akong alam sa bungisngis!
+/Tik-Tik: Sinungaling! Naririnig kitang pinagkakalat na may kakaibang kapangyarihan ang mata ng bungisngis! Halika nga dito! 
+/Nuno: Nuno takot! Kaspian tago!
+/Kaspian: ... hindi... Tutulungan ko ang diwata. 
+/Kaspian: Tik-tik! Ako ang kalabanin mo, 'wag yung diwata. 
+/Tik-Tik: ???...!!!
+/CHAPTER 3 BATTLE: KASPIAN VS TIKTIK!
+;Diwata: Salamat sa inyo...ano ang pangalan niyo? 
+;Nuno: Kaspian ang pangalan niya, ako si Nuno! Mwehe. 
+;Diwa: Salamat sa pagligtas sa akin, Kaspian at Nuno. Ako si Diwa. Ano ang maaring tulong ko para sa inyo? 
+;Napansin ni Kaspian na malapit na masira ang kaniyang turumpo.
+;Kaspian: Nako po! Ang turumpo ni lolo! Malapit na masira! Hindi ito pwede mawala...
+;Diwa: Ang iyong turumpo... may marka ito ni Romar, ang dakilang bayani na nakipag laban sa mga unang pwersa ng kadiliman.
+;Kaspian: Kilala mo si Lolo Romar? At ano ang sinasabi mo na nakipaglaban?
+;Diwa: Lolo? Apo ka ni Romar?
+;Kaspian: Oo, binigay niya sa akin ito noong bata ako. Ngunit ngayon ay mukhang nasira na.
+;Diwa: Ah! Sa isa sa mga locker ng Einstein Building, may kakaibang sandata na nakatago, hindi ko alam bakit ito tinago ng mga Engkanto at Aswang sa locker, ngunit napansin ko na kinatatakutan nila ito. 
+;Nuno: Tumungo na tayo sa Einstein, Kaspian! Para makakuha ulit ako ng choc- este makuha na natin ang sandata! Mwehe >:D
+;END OF CHAPTER 3.
+|Kaspian|100|Saltik De Tali|Paltok De Turumpo!|Watt-a-Top|Ultra-Magnetic Top|2|4|7|10
+|Tik-Tik|100|Razor Slash|Double - Slash|Whip - Lash|Lick of Despair|7|10|13|18

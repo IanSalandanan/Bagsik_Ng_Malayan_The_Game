@@ -1,0 +1,3 @@
+/BATTLE INSTRUCTIONS: In each battle, Kaspian and the enemy each possess four unique combat moves: Light Attack, Normal Attack, Medium Attack, and Ultimate Attack. Once Kaspian uses a particular attack, it cannot be used again until all combat moves have been used; this rule applies to the enemy as well. 
+/BATTLE INSTRUCTIONS: Kaspian also has three chances to rewrite his destiny, providing an opportunity to change the enemy's combat move. However, this action comes with risks, as it may result in Kaspian receiving either lower or higher damage. Therefore, timing is crucial. 
+/Beware. As the story progresses, the enemies will be stronger. I wish you the best results. 

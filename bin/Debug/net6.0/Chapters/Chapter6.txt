@@ -1,0 +1,30 @@
+/CHAPTER 6: "Duelo de Magia"
+/Kaspian: nasa Auditorium na tayo...ang huling laban ko upang matupad ang propesiya at maligtas ang sang-katauhan mula sa pwersa ng kadiliman...Ina, Ama, at Lolo Romar, para sa inyo ang laban na ito.
+/Habang dahan-dahan naglalakad si Kaspian papunta sa Auditorium ay tanaw na niya ang lider ng mga engkanto at aswang.
+/Luntianara: Malayo ka palang ay ramdam ko na ang presensya ng ispada ni Tomás. Nagkamali ako sa desisyon ko na itago yan sa mundo ng mga tao.
+/Luntianara na pinalaya si Nuno: Ang aking mahalagang tagapagtulong! Maganda ang iyong nagawa sa pagdadala kay Kaspian sa akin.
+/Nuno: Naalala ko na...layunin ko'y kumbinsihin si Kaspian na kakampi ako at dalhin si Kaspian kay Luntianara upang patayin siya ni Luntianara. Pero para lang taksilin si Kaspian at ibigay sa'yo... Hindi ito ang gusto ko, Kaspian, kaibigan!
+/Kaspian: Traydor! Ang kamalian mo, Luntianara, ang magwawakas sa iyo!
+/Luntianara: Hangal! Ikaw ang pagkakamali! Dahil kay Lutianlakan, ang aking kapatid, nabuo ka!
+/Kaspian: ...Hindi ko maunawaan-
+/Luntianara: Dugong engkanto ka! Anak ni Lutianlakan at Teresa na isang tao! HINDI KA DAPAT NABUO! Arogante mo'y magwawakas!
+/Luntianara: Isaogmata! tapusin ang batang ito ngayon din!
+/Kaspian: .... .. . .. .
+/Luntianara: Huh?! Isaogmata asan ka na?!....Teka...bakit na-aamoy ko sayo si Isaogmata?
+/Kaspian: Ahh ayun nga pala pangalan ng dinukutan ko ng mata kanina...
+/Luntianara: AAAAARGH!!!
+/CHAPTER 6 BATTLE: KASPIAN VS LUTIANARA!
+;Luntianara: H-hindi ma-aari... B...Bakit mas pinili mo ang mga tao kaysa sa sarili mong lahi?....
+;Kaspian: Sa dugo ko lamang dumadaloy ang pagiging engkanto, ngunit sa isip at damdamin ko ay isa akong tao.
+;Matapos ang huling hininga ay unti - unti naging abo at nilipad sa hangin ang katawan ni Lutianara.
+;Biglang nag - anyong T-Square ang ispada ni Tomás Mapúa at inilagay na lamang ni Kaspian ang T-Square sa kanyang bag.
+;Nuno: Pasensya, Kaspian...hindi ko inakalang ayun pala ang aking layunin...
+;Kaspian: hindi, salamat sa iyo Nuno. Kundi dahil sa iyo, hindi ko mahahanap si Luntianara at ang aking pagkakakilanlan. Alam kong mabuti kang kaibigan. 
+;Kaspian: Maraming salamat sa inyong tulong, mga kaibigan. Ngunit alam ko may iba pang pagsubok na haharapin.
+;Diwa: Oo, may mga bagay na bumabalot pa sa kadiliman na kailangan nating harapin. Ngunit sa iyong tapang at pagsusumikap, tiwala akong malalampasan natin ito.
+;Nuno: At syempre, may choc-nut pa tayo, mwehe!
+;Kaspian: Oo, Nuno. May choc-nut pa tayo. 
+;Ang grupo ay lumakad palayo patungo sa exit ng auditorium.
+;THE END.
+|Kaspian|180|Corte Espectral|Tajo Danzante|Hinagpit ng Tres - Marias|Marka De Cinco|2|4|7|10
+|Luntianara|200|Itim de Pamahiin|Maldición del Encanto|Vil Salamanca|Beso de la Muerte|24|27|30|40

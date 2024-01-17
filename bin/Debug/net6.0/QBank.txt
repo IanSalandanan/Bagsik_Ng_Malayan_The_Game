@@ -1,0 +1,29 @@
+Sino ang Pambansang Bayani ng Pilipinas?;A. Emilio Aguinaldo;B. Jose Rizal;C. Emilio Jacinto;B
+Sino ang naging unang Presidente ng Pilipinas?;A. Emilio Aguinaldo;B. Jose Rizal;C. Emilio Jacinto;A
+Ano ang pinaka malaking mall sa Pilipinas?;A. SM Megamall;B. SM North EDSA;C. SM Mall of Asia;C
+Ano ang mga opisyal na lengwahe ng Pilipinas?;A. English at Filipino;B. Filipino;C. English;A
+Saang rehiyon matatagpuan ang Vigan City?;A. MIMAROPA;B. Calabarzon;C. Ilocos Region;C
+Ano ang "chemical symbol" ng tubig?;A. HO2;B. H2O;C. H3O;B
+Ano ang kulay ng isang libong piso?;A. Pula;B. Asul;C. Berde;B
+Ano ang pamagat ng Pambansang Awit ng Pilipinas?;A. Lupang Hinirang;B. Bayang Magiliw;C. Perlas ng Silanganan;A
+Ano ang value ng "PI"?;A.3.16;B.3.14;C.3.15;B
+Ano ang "formula" para sa "Pythagorean Theorem"?;A. a + b + c;B. a^2 + b = c^2;C. a^2 + b^2 = c^2;C
+Ano ang pangunahing relihiyon ng pilipinas?;A. Islam;B. Katolikong Kristiyanismo;C. Iglesia Ni Cristo;B
+Noong 1543, ang mga pulo ng Pilipinas ay ipinangalan kay Philip II, hari ng anong bansa?;A. Spain;B. Germany;C. Italy;A
+Ano ang pinakamatandang lungsod sa Pilipinas;A. Manila;B. Batangas;C. Cebu;C
+Sino ang kompositor ng Lupang Hinirang;A. Jose Palma;B. Jose Rizal;C. Julian Felipe;C
+Sino ang explorer na dumating sa Pilipinas noong 1521?;A. Ferdinand Magellan;B. Antonio Pigafetta;C. King Philip II;A
+Sino ang kinikilalang "King of Comedy" ng Pelikulang Pilipino?;A. Dolphy;B. Vic Sotto;C. FPJ;A
+Saang bansa unang dumating ang mga Kastila bago pumunta sa Pilipinas?;A. China;B. Indonesia;C. Mexico;C
+Sinong sumulat ng "Noli Me Tangere"?;A. Andres Bonifacio;B. Jose Rizal;C. Emilio Aguinaldo;B
+Saan matatagpuan ang Chocolate Hills?;A. Negros Oriental;B. Bohol;C. Camiguin;B
+Saan matatagpuan ang Pagsanjan Falls?;A. Rizal;B. Quezon;C. Laguna;C
+Saan matatagpuan ang Taal Volcano?;A. Batangas;B. Cavite;C. Bulacan;A
+Sino ang kilalang Pilipinong pintor na kilala sa kanyang mga obra gaya ng "Spoliarium"?;A. Fernando Amorsolo;B. Juan Luna;C. Vicente Manansala;B
+Saan matatagpuan ang Banaue Rice Terraces?;A. Benguet;B. Ifugao;C. Mountain Province;B
+Ano ang tawag sa pambansang prutas ng Pilipinas?;A. Mangga;B. Saging;C. Waling-waling;A
+Sino ang kinikilalang "Asia's Songbird"?;A. Regine Velasquez;B. Sarah Geronimo;C. Lea Salonga;A
+Sino ang lider ng Katipunan na kilala sa tawag na "Supremo"?;A. Andres Bonifacio;B. Emilio Aguinaldo;C. Antonio Luna;A
+Saan matatagpuan ang Mayon Volcano?;A. Albay;B. Camarines Sur;C. Sorsogon;A
+Sino ang tinaguriang "Queen of All Media" sa Pilipinas?;A. Korina Sanchez;B. Kris Aquino;C. Karen Davila;B
+Aling planeta ang pinakamalapit sa araw?;A. Mars;B. Mercury;C. Venus;B
