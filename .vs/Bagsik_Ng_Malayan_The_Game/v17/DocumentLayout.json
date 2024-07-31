@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\Bagsik_Ng_Malayan_The_Game\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614FB982-A1A7-4A28-80FA-C56E090CFF8A}|Bagsik_Ng_Malayan_The_Game.csproj|c:\\users\\christian kerby\\documents\\github\\bagsik_ng_malayan_the_game\\2ndminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614FB982-A1A7-4A28-80FA-C56E090CFF8A}|Bagsik_Ng_Malayan_The_Game.csproj|solutionrelative:2ndminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614FB982-A1A7-4A28-80FA-C56E090CFF8A}|Bagsik_Ng_Malayan_The_Game.csproj|c:\\users\\christian kerby\\documents\\github\\bagsik_ng_malayan_the_game\\1stminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614FB982-A1A7-4A28-80FA-C56E090CFF8A}|Bagsik_Ng_Malayan_The_Game.csproj|solutionrelative:1stminigame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614FB982-A1A7-4A28-80FA-C56E090CFF8A}|Bagsik_Ng_Malayan_The_Game.csproj|c:\\users\\christian kerby\\documents\\github\\bagsik_ng_malayan_the_game\\character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614FB982-A1A7-4A28-80FA-C56E090CFF8A}|Bagsik_Ng_Malayan_The_Game.csproj|solutionrelative:character.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{614FB982-A1A7-4A28-80FA-C56E090CFF8A}|Bagsik_Ng_Malayan_The_Game.csproj|c:\\users\\christian kerby\\documents\\github\\bagsik_ng_malayan_the_game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614FB982-A1A7-4A28-80FA-C56E090CFF8A}|Bagsik_Ng_Malayan_The_Game.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\Bagsik_Ng_Malayan_The_Game\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\Bagsik_Ng_Malayan_The_Game\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAALYCAAAAAAAAAAAAAPwBAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:22:51.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Character.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\Bagsik_Ng_Malayan_The_Game\\Character.cs",
+              "RelativeDocumentMoniker": "Character.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\Bagsik_Ng_Malayan_The_Game\\Character.cs",
+              "RelativeToolTip": "Character.cs",
+              "ViewState": "AQIAAIkAAAAAAAAAAAAkwKYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:22:51.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "1stMiniGame.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\Bagsik_Ng_Malayan_The_Game\\1stMiniGame.cs",
+              "RelativeDocumentMoniker": "1stMiniGame.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\Bagsik_Ng_Malayan_The_Game\\1stMiniGame.cs",
+              "RelativeToolTip": "1stMiniGame.cs",
+              "ViewState": "AQIAAMIAAAAAAAAAAAAswGcBAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:22:51.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "2ndMiniGame.cs",
+              "DocumentMoniker": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\Bagsik_Ng_Malayan_The_Game\\2ndMiniGame.cs",
+              "RelativeDocumentMoniker": "2ndMiniGame.cs",
+              "ToolTip": "C:\\Users\\Christian Kerby\\Documents\\GitHub\\Bagsik_Ng_Malayan_The_Game\\2ndMiniGame.cs",
+              "RelativeToolTip": "2ndMiniGame.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwIQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-31T08:22:51.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Bagsik_Ng_Malayan_The_Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+03db809e53769fa005e01f6532a084b0c7376df6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Bagsik_Ng_Malayan_The_Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Bagsik_Ng_Malayan_The_Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
